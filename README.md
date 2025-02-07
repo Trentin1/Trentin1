@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Snake animation](https://github.com/Trentin1/Trentin1/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/Trentin1">
